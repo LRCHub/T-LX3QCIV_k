@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Make it",
+  "base_artist": "大渕野々花",
+  "createdAt": "2026-02-27T23:02:56.253781Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "'Til I Can Make It On My Own",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/01_'Til_I_Can_Make_It_On_My_Own_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "'Til I Can Make It on My Own",
+      "artist": "Tammy Wynette",
+      "has_synced": false,
+      "path": "select/02_'Til_I_Can_Make_It_on_My_Own_Tammy_Wynette.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Make It Easy for Me",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/03_Don't_Make_It_Easy_for_Me_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Help Me Make It Through The Night",
+      "artist": "Sammi Smith",
+      "has_synced": true,
+      "path": "select/04_Help_Me_Make_It_Through_The_Night_Sammi_Smith.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Help Me Make It Through The Night",
+      "artist": "Kris Kristofferson",
+      "has_synced": true,
+      "path": "select/05_Help_Me_Make_It_Through_The_Night_Kris_Kristofferson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Help Me Make It Through The Night (Album Version)",
+      "artist": "Kris Kristofferson",
+      "has_synced": true,
+      "path": "select/06_Help_Me_Make_It_Through_The_Night_(Album_Version)_Kris_Kristofferson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Help Me Make It Through the Night",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/07_Help_Me_Make_It_Through_the_Night_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Help Me Make It Through the Night (Album Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/08_Help_Me_Make_It_Through_the_Night_(Album_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If I Don't Make It Back",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/09_If_I_Don't_Make_It_Back_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If We Make It Through December",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/10_If_We_Make_It_Through_December_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If We Make It Through December",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/11_If_We_Make_It_Through_December_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If We Make It Through December",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/12_If_We_Make_It_Through_December_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Make It Past Georgia",
+      "artist": "Ashland Craft",
+      "has_synced": true,
+      "path": "select/13_Make_It_Past_Georgia_Ashland_Craft.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Ones That Didn’t Make It Back Home",
+      "artist": "Justin Moore",
+      "has_synced": true,
+      "path": "select/14_The_Ones_That_Didn’t_Make_It_Back_Home_Justin_Moore.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You Make It Easy",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/15_You_Make_It_Easy_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Make It Mine",
+      "artist": "Jason Mraz",
+      "has_synced": true,
+      "path": "select/16_Make_It_Mine_Jason_Mraz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Make It Clap (remix)",
+      "artist": "Busta Rhymes feat. Sean Paul",
+      "has_synced": false,
+      "path": "select/17_Make_It_Clap_(remix)_Busta_Rhymes_feat._Sean_Paul.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Make it",
+      "artist": "大渕野々花",
+      "has_synced": false,
+      "path": "select/pl_01_Make_it_大渕野々花.txt"
+    }
+  ]
+}
